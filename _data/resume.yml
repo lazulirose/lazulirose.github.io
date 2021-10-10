@@ -4,9 +4,9 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars2.githubusercontent.com/u/28818572?v=3&u=fefd9bb14646a5f010ace3e1d831d01eb1695aae&s=400"
-name: "Ancy"
-copy: "I'm a designer/developer based in Tokyo, and I was most recently a Front-end Engineer."
+photo: "https://lilium-u.github.io/about/img/me.jpg"
+name: "Yuri (Ancy)"
+copy: "I am UI/UX Designer, it is involved in the User Experience Design for both Web and native Application."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
