@@ -4,8 +4,8 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://media-exp1.licdn.com/dms/image/C5103AQF12quVI552ag/profile-displayphoto-shrink_400_400/0/1516888544299?e=1655942400&v=beta&t=GqebIAB2JSF-dWMbKMiswEXEN1A1SQ_vy_ohJ5vE8Js"
-name: "Yuri Tanaka"
+photo: "https://avatars.githubusercontent.com/u/28818572?v=4"
+name: "Ancy (Yuri)"
 copy: "I am an UI/UX Designer. Involved in the User Experience Design for both Web and native Application also Design-reserch."
 
 # Color scheme based on http://www.materialui.co/colors.
